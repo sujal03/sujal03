@@ -1,7 +1,7 @@
 ![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
 <h1 align="center">Hi 👋, I'm Sujal Tamrakar</h1>
 <h3 align="center">A passionate AI developer from India</h3>
-<img align="right" alt="Coding" width="400" src="https://iconscout.com/illustration/cute-little-kid-coding-on-laptop-4619253">
+<!-- <img align="right" alt="Coding" width="400" src="https://iconscout.com/illustration/cute-little-kid-coding-on-laptop-4619253"> -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal03&label=Profile%20views&color=0e75b6&style=flat" alt="sujal03" /> </p>
 
