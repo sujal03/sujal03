@@ -28,7 +28,7 @@
       alt="LinkedIn"
     />
   </a>
-  <a href="https://huggingface.co/SujalTamrakar" target="_blank">
+  <a href="https://huggingface.co/suzall" target="_blank">
     <img
       src="https://img.shields.io/badge/🤗_Hugging_Face-Explore-yellow?style=for-the-badge&logo=huggingface&logoColor=white"
       alt="Hugging Face"
