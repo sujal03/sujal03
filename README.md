@@ -1,58 +1,230 @@
-<!-- Banner GIF -->
-![MasterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif)
+<!-- Header Banner -->
+<div align="center">
+  <img
+    src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/54b6c068097599.5b50bca476b9b.gif"
+    width="100%"
+    alt="AI Developer Banner"
+  />
+</div>
 
-<!-- Title and Tagline -->
-<h1 align="center">Hi 👋, I'm Sujal Tamrakar</h1>
-<h3 align="center">A Passionate AI Developer | Generative AI Enthusiast | Python Wizard from India</h3>
+<!-- Animated Name Introduction -->
+<h1 align="center">
+  <img
+    src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&pause=1000&center=true&vCenter=true&width=500&lines=Hi+there%2C+I'm+Sujal+Tamrakar;AI+Developer;Generative+AI+Engineer;Python+Enthusiast"
+    alt="Typing SVG"
+  />
+</h1>
 
-<!-- Coding Illustration -->
-<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif">
+<div align="center">
+  <a href="https://twitter.com/_suzall" target="_blank">
+    <img
+      src="https://img.shields.io/twitter/follow/_suzall?style=for-the-badge&logo=twitter&logoColor=white&labelColor=1DA1F2&color=1DA1F2"
+      alt="Twitter"
+    />
+  </a>
+  <a href="https://linkedin.com/in/sujaltamrakar" target="_blank">
+    <img
+      src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+      alt="LinkedIn"
+    />
+  </a>
+  <a href="https://huggingface.co/SujalTamrakar" target="_blank">
+    <img
+      src="https://img.shields.io/badge/🤗_Hugging_Face-Explore-yellow?style=for-the-badge&logo=huggingface&logoColor=white"
+      alt="Hugging Face"
+    />
+  </a>
+  <a href="mailto:sujal.tamrakar@outlook.com" target="_blank">
+    <img
+      src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4"
+      alt="Email"
+    />
+  </a>
+  <img
+    src="https://komarev.com/ghpvc/?username=sujal03&style=for-the-badge&color=blueviolet"
+    alt="Profile Views"
+  />
+</div>
 
-<!-- Profile Views -->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=sujal03&label=Profile%20views&color=0e75b6&style=flat" alt="sujal03" /> </p>
+<hr />
 
-<!-- Twitter Badge -->
-<p align="left"> <a href="https://twitter.com/_suzall" target="_blank"><img src="https://img.shields.io/twitter/follow/_suzall?logo=twitter&style=for-the-badge" alt="Twitter" /></a> </p>
+<!-- About Me Section with Modern Layout -->
+<div align="center">
+  <img
+    align="right"
+    src="https://cdn.dribbble.com/users/1162077/screenshots/5403918/media/d5dccb5d5818cba2c8fa0cb15fb578b3.gif"
+    width="380"
+    alt="Coding Animation"
+  />
+</div>
 
-<!-- About Section -->
-- 🌱 I’m currently mastering **LangChain** and **Generative AI frameworks**.  
-- 💬 Ask me about **Python, AI, Chatbots, Generative AI, LangChain**.  
-- 📫 How to reach me: **sujal.tamrakar@outlook.com**.  
-- 🌟 Fun fact: I’m always up for building cool AI-powered tools!  
+### 🤖 About Me 
 
-<!-- Connect With Me Section -->
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://twitter.com/_suzall" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Twitter" height="30" width="40" /></a>
-  <a href="https://linkedin.com/in/sujaltamrakar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-  <a href="https://instagram.com/suzall_" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" /></a>
-  <a href="https://www.leetcode.com/sujaltamrakar" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
-  <a href="https://auth.geeksforgeeks.org/user/suzall" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="GeeksForGeeks" height="30" width="40" /></a>
-</p>
+I'm a passionate Generative AI developer and Python specialist from India, focused on building innovative AI solutions. 
 
-<!-- Languages and Tools Section -->
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-  <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40" /> </a>
-  <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="HTML5" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="CSS3" width="40" height="40" /> </a>
-  <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40" /> </a>
-  <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="Flutter" width="40" height="40" /> </a>
-  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="MySQL" width="40" height="40" /> </a>
-</p>
+- 🔭 **Currently working at:** VKAPS IT Solution Pvt. Ltd. 
+- 🚀 **Specializing in:** LLM fine-tuning & RAG systems 
+- 🌱 **Learning:** LangChain, Vector Databases, Multimodal AI 
+- 💬 **Expertise:** Python, Hugging Face, LLM Deployment 
+- 🧠 **Building:** Medical NLP applications & Video AI agents 
+- 📫 **Contact:** sujal.tamrakar@outlook.com 
+- 🌍 **Location:** Indore, India 
 
-<!-- Stats Section -->
-<h3 align="left">📊 GitHub Stats:</h3>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=sujal03&show_icons=true&theme=radical&hide=prs" alt="Sujal's GitHub Stats" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=sujal03&theme=radical" alt="Sujal's GitHub Streak" />
-</p>
-<p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal03&layout=compact&theme=radical" alt="Sujal's Top Languages" />
-</p>
+<hr />
 
-<!-- Support Section -->
-<h3 align="left">💖 Support Me:</h3>
-<p>If you enjoy my work, feel free to <a href="https://buymeacoffee.com/suzall">buy me a coffee</a> or star this repo. Your support means a lot! 😊</p>
+<!-- Tech Stack with Modern Icons -->
+<h2 align="center">🛠️ Technology Stack</h2>
+
+<div align="center">
+  <h3>AI & Machine Learning</h3>
+  <p>
+    <img
+      src="https://img.shields.io/badge/LangChain-%23000000.svg?style=for-the-badge&logo=chainlink&logoColor=white"
+      alt="LangChain"
+    />
+    <img
+      src="https://img.shields.io/badge/Hugging_Face-%23FFD21E.svg?style=for-the-badge&logo=huggingface&logoColor=black"
+      alt="Hugging Face"
+    />
+    <img
+      src="https://img.shields.io/badge/OpenAI-%23412991.svg?style=for-the-badge&logo=openai&logoColor=white"
+      alt="OpenAI"
+    />
+    <img
+      src="https://img.shields.io/badge/RAG-%234285F4.svg?style=for-the-badge&logoColor=white"
+      alt="RAG"
+    />
+    <img
+      src="https://img.shields.io/badge/LLM_Fine--Tuning-%23FF6F00.svg?style=for-the-badge&logoColor=white"
+      alt="LLM Fine-Tuning"
+    />
+  </p>
+
+  <h3>Languages & Frameworks</h3>
+  <p>
+    <img
+      src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"
+      alt="Python"
+    />
+    <img
+      src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white"
+      alt="Flask"
+    />
+    <img
+      src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"
+    />
+    <img
+      src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"
+      alt="Streamlit"
+    />
+  </p>
+
+  <h3>Developer Tools</h3>
+  <p>
+    <img
+      src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white"
+      alt="Docker"
+    />
+    <img
+      src="https://img.shields.io/badge/Git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white"
+      alt="Git"
+    />
+    <img
+      src="https://img.shields.io/badge/VS%20Code-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white"
+      alt="VS Code"
+    />
+    <img
+      src="https://img.shields.io/badge/Jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white"
+      alt="Jupyter"
+    />
+    <img
+      src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"
+      alt="MySQL"
+    />
+    <img
+      src="https://img.shields.io/badge/Colab-%23F9AB00.svg?style=for-the-badge&logo=google-colab&logoColor=white"
+      alt="Colab"
+    />
+  </p>
+</div>
+
+<hr />
+
+<!-- Projects Section -->
+<h2 align="center">🚀 Featured Projects</h2>
+
+<div align="center">
+  <a href="https://github.com/YourRepo1">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sujal03&repo=Video-AI-Summarizer-Agent&theme=tokyonight"
+      alt="Project 1"
+    />
+  </a>
+  <a href="https://github.com/YourRepo2">
+    <img
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sujal03&repo=ChatBase&theme=tokyonight"
+      alt="Project 2"
+    />
+  </a>
+</div>
+
+<hr />
+
+<!-- GitHub Stats with Modern Design -->
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<div align="center">
+  <img
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=sujal03&theme=tokyonight"
+    alt="GitHub Stats"
+    width="100%"
+  />
+
+<div>
+    <img src="https://github-readme-stats.vercel.app/api?username=sujal03&show_icons=true&count_private=true&hide=prs&theme=tokyonight"
+        alt="GitHub Stats" width="49%" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sujal03&layout=compact&theme=tokyonight"
+        alt="Most Used Languages" />
+</div>
+  
+</div>
+
+<hr />
+
+<!-- AI Contribution Graph -->
+<div align="center">
+  <img
+    src="https://github-readme-activity-graph.vercel.app/graph?username=sujal03&theme=tokyo-night"
+    width="100%"
+  />
+</div>
+
+<hr />
+
+<!-- Buy Me a Coffee Section -->
+<h2 align="center">☕ Support My Work</h2>
+
+<div align="center">
+  <a href="https://buymeacoffee.com/suzall" target="_blank">
+    <img
+      src="https://www.buymeacoffee.com/assets/img/guidelines/download-assets-sm-1.svg"
+      alt="Buy Me A Coffee"
+      width="175"
+    />
+  </a>
+</div>
+
+<div align="center">
+  <p>If you find my work useful, consider buying me a coffee!</p>
+</div>
+
+<hr />
+
+<!-- Footer -->
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"
+    width="100%"
+  />
+</div>
