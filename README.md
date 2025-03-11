@@ -34,12 +34,6 @@
       alt="Hugging Face"
     />
   </a>
-  <a href="mailto:sujal.tamrakar@outlook.com" target="_blank">
-    <img
-      src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=microsoft-outlook&logoColor=white&color=0078D4"
-      alt="Email"
-    />
-  </a>
   <img
     src="https://komarev.com/ghpvc/?username=sujal03&style=for-the-badge&color=blueviolet"
     alt="Profile Views"
