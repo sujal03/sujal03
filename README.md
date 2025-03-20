@@ -149,15 +149,15 @@ I'm a passionate Generative AI developer and Python specialist from India, focus
 <h2 align="center">🚀 Featured Projects</h2>
 
 <div align="center">
-  <a href="https://github.com/YourRepo1">
+  <a href="https://github.com/sujal03/Video-AI-Summarizer-Agent">
     <img
       src="https://github-readme-stats.vercel.app/api/pin/?username=sujal03&repo=Video-AI-Summarizer-Agent&theme=tokyonight"
       alt="Project 1"
     />
   </a>
-  <a href="https://github.com/YourRepo2">
+  <a href="https://github.com/sujal03/School-RAG">
     <img
-      src="https://github-readme-stats.vercel.app/api/pin/?username=sujal03&repo=ChatBase&theme=tokyonight"
+      src="https://github-readme-stats.vercel.app/api/pin/?username=sujal03&repo=School-RAG&theme=tokyonight"
       alt="Project 2"
     />
   </a>
